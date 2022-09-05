@@ -2,7 +2,7 @@
 {
    static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!\n");
-        Console.WriteLine("aprendendo c#\n");
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("aprendendo c#");
     }
 }
