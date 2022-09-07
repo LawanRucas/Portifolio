@@ -1,20 +1,22 @@
-﻿
-      bool isWoman = false;
-      string mulher = "n";
+﻿// See https://aka.ms/new-console-template for more information
+
+bool isWoman;
+string mulher = "";
 
  Console.WriteLine("Mulheres maiores de 18 não pagam");
 
             Console.WriteLine("Vc é mulher? (s/n)");
-            mulher = Convert.ToString(Console.ReadLine());
+            string mulher = Console.ReadLine();
             if (mulher == "s")
             {
                 isWoman = true;
             }
-           Console.WriteLine("Qual sua idade? ");
-           int idademulher = Convert.ToInt32(Console.ReadLine());
+            int idademulher = Convert.ToInt32(Console.ReadLine());
             if (idademulher > 18 && isWoman == true)
             {
                 Console.WriteLine("vc é mulher e maior de 18");
             }
-            Console.WriteLine("Pode entrar");
-    
+            else
+            {
+                Console.WriteLine("vc é homem ou menor de 18");
+            }

@@ -1,15 +1,27 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Diagnostics;
 
-namespace Exercicios
+internal class NewBaseType
 {
-    public class Exercicio2
+    static void Main(string[] args)
     {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine("hello world");
-        }
+   
+      bool isWoman = false;
+      string mulher = "n";
+
+ Console.WriteLine("Mulheres maiores de 18 não pagam");
+
+            Console.WriteLine("Vc é mulher? (s/n)");
+            mulher = Convert.ToString(Console.ReadLine());
+            if (mulher == "s")
+            {
+                isWoman = true;
+            }
+           Console.WriteLine("Qual sua idade? ");
+           int idademulher = Convert.ToInt32(Console.ReadLine());
+            if (idademulher > 18 && isWoman == true)
+            {
+                Console.WriteLine("vc é mulher e maior de 18");
+            }
+            Console.WriteLine("Pode entrar");
     }
 }
