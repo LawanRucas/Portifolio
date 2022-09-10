@@ -1,0 +1,15 @@
+/home/rawan/Documents/GitHub/Portifolio/c#/bin/Debug/net6.0/c#
+/home/rawan/Documents/GitHub/Portifolio/c#/bin/Debug/net6.0/c#.deps.json
+/home/rawan/Documents/GitHub/Portifolio/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/rawan/Documents/GitHub/Portifolio/c#/bin/Debug/net6.0/c#.dll
+/home/rawan/Documents/GitHub/Portifolio/c#/bin/Debug/net6.0/ref/c#.dll
+/home/rawan/Documents/GitHub/Portifolio/c#/bin/Debug/net6.0/c#.pdb
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.dll
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/ref/c#.dll
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.pdb
+/home/rawan/Documents/GitHub/Portifolio/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
